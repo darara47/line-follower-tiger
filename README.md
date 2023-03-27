@@ -11,3 +11,8 @@ The vehicle was created on a PCB and contains electronic components like motors,
 Robot has to move precise, don't lose the path and be quick at the same time. Board and line have opposite colors. Track can be right angle and with a crossroads.
 
 ### [Checkout video here!](https://www.youtube.com/watch?v=RA4LauXiddw)
+
+Presented robot participated in few tournaments. One of them you can [watch here](https://www.youtube.com/watch?v=Vso4rvGmwOM).
+
+
+
